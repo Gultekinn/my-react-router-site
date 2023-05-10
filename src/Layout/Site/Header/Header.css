@@ -1,0 +1,20 @@
+.custom {
+  width: 100%;
+  height: 75px;
+  background-color: rgba(21, 21, 202, 0.768);
+  padding: 0 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.custom__navbar {
+  display: flex;
+  list-style: none;
+}
+.custom__navbar__link {
+  text-decoration: none;
+  margin-left: 33px;
+  color: white;
+  font-size: 18px;
+}/*# sourceMappingURL=Header.css.map */

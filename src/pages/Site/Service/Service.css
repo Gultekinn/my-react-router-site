@@ -1,0 +1,59 @@
+.divv {
+  background-color: rgb(237, 235, 235);
+}
+
+.contdiv {
+  width: 800px;
+  margin: auto;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+.contdiv h1 {
+  color: rgb(30, 30, 90);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.contdiv p {
+  color: rgb(53, 51, 51);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.contan {
+  padding: 80px 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.commoncard {
+  width: 400px;
+  height: 350px;
+  border-radius: 15px;
+  padding: 20px 20px;
+}
+.commoncard__icondiv {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(64, 64, 229);
+  border-radius: 10px;
+  text-align: center;
+}
+.commoncard__icondiv img {
+  width: 50px;
+  color: white;
+  margin-top: 17px;
+}
+.commoncard h3 {
+  margin-top: 30px;
+  color: rgb(27, 27, 90);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.commoncard p {
+  color: rgb(66, 65, 65);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.commoncard:hover {
+  background-color: rgb(255, 255, 255);
+}/*# sourceMappingURL=Service.css.map */

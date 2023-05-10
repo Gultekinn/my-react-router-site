@@ -1,0 +1,84 @@
+.footer {
+  width: 100%;
+  height: 550px;
+  margin-top: 80px;
+  display: flex;
+  padding: 0 50px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  background-image: url(https://preview.uideck.com/items/crypto/assets/img/xcommon-bg.jpg.pagespeed.ic.EQcRUEZWvX.webp);
+}
+.footer__card1 {
+  width: 450px;
+  height: 270px;
+}
+.footer__card1 p {
+  font-size: 18px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.footer__card2 {
+  width: 450px;
+  height: 270px;
+}
+.footer__card2 h3 {
+  text-align: center;
+}
+.footer__card2 ul {
+  text-align: center;
+}
+.footer__card3 {
+  width: 450px;
+  height: 270px;
+}
+.footer__card3 h3 {
+  text-align: center;
+}
+.footer__card3 ul {
+  text-align: center;
+}
+.footer__card4 {
+  width: 450px;
+  height: 270px;
+}
+.footer__card4 h3 {
+  text-align: center;
+}
+.footer__card4 ul {
+  text-align: center;
+}
+
+.iconss {
+  display: flex;
+  gap: 30px;
+  color: white;
+}
+.iconss .icon1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(240, 248, 255, 0.311);
+}
+
+h3 {
+  color: white;
+}
+
+ul li {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
+
+.hr {
+  position: relative;
+  bottom: 100px;
+  width: 600px;
+  color: white;
+  margin-left: 560px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}/*# sourceMappingURL=Footer.css.map */

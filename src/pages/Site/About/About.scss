@@ -1,0 +1,25 @@
+.about {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 40px 40px;
+  &__div2 {
+    width: 700px;
+    height: 500px;
+    h1 {
+      color: rgb(19, 19, 158);
+    }
+    p {
+      color: rgb(80, 77, 77);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    }
+    button {
+      width: 200px;
+      background-image: linear-gradient(
+        #365ae1 0%,
+        #244ae2 4.66%,
+        #1029a6 76.69%,
+        #1029a6 100%
+      );
+    }
+  }
+}

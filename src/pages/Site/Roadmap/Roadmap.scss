@@ -1,0 +1,69 @@
+.road {
+  width: 100%;
+  height: 500px;
+
+  background-image: url(https://preview.uideck.com/items/crypto/assets/img/xcommon-bg.jpg.pagespeed.ic.EQcRUEZWvX.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 100px;
+  &__text {
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 100px;
+  }
+}
+
+.road__common {
+  display: flex;
+  position: relative;
+  
+  top: 140px;
+}
+.road__card {
+  width: 250px;
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  position: relative;
+  left: 140px;
+}
+
+.roadmap {
+    background-color: rgb(247, 246, 246);
+ 
+  padding: 50px 79px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__img {
+    width: 500px;
+    height: 500px;
+  
+  }
+  &__text {
+    width: 600px;
+    height: 500px;
+   
+    h1 {
+      color: rgb(17, 17, 53);
+      font-family: "Times New Roman", Times, serif;
+    }
+    p {
+      font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+      color: rgb(110, 106, 106);
+    }
+    button {
+      width: 250px;
+      background-image: linear-gradient(
+        #365ae1 0%,
+        #244ae2 4.66%,
+        #1029a6 76.69%,
+        #1029a6 100%
+      );
+    }
+  }
+}
